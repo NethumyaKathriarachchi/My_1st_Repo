@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hello from main branch!
+=======
+hello from main branch!
+>>>>>>> feature
 This is my second line.
