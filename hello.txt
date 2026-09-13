@@ -1,2 +1,2 @@
-Hello Git!
+hello from main branch!
 This is my second line.
